@@ -1,4 +1,4 @@
 # TSP-SESSION-DBPY
 
 
-This is final TSP SESSION MY SQL.
+This is final TSP SESSION assignment in MY SQL.
